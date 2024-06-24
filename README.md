@@ -1,5 +1,4 @@
 # Deshatan
-SRM Internal SIH team-based finalist project
 
 ## Features to be Added
 
